@@ -13,7 +13,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: linear-gradient(180deg, #5900ff, #ff0080, #ff5e00);
+    background: linear-gradient(180deg, #5900ff, #ff0040, #ff5100ef);
     background-size: cover;
     background-attachment: fixed;
     color: white;
